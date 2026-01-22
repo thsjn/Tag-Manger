@@ -10,17 +10,12 @@ Este repositório contém as exportações dos contêineres do Google Tag Manage
 - **ID Público:** GTM-K56VBFNR
 - **Uso:** Importar na área de trabalho Web do GTM.
 
-[![Download GTM ](https://img.shields.io/badge/Download-GTM.json_-orange?style=for-the-badge&logo=google-cloud)](https://github.com/thsjn/Tag-Manger/raw/main/GTM.json)
-
-
-
 ### 2. Contêiner Server (`sGTM.json`)
 - **Nome:** SER - Plug & Play
 - **Contexto:** Servidor (Server-side)
 - **ID Público:** GTM-WWXPSNFC
 - **Uso:** Importar na área de trabalho Server do GTM.
 
-[![Download GTM Server](https://img.shields.io/badge/Download-sGTM.json_(Server)-orange?style=for-the-badge&logo=google-cloud)](https://github.com/thsjn/Tag-Manger/raw/main/sGTM.json)
 ## Como Importar
 
 1. No Google Tag Manager, vá em **Admin** > **Importar Contêiner**.
@@ -29,12 +24,6 @@ Este repositório contém as exportações dos contêineres do Google Tag Manage
 
 
 
-### Downloads Diretos (Forçar Download)
+### Downloads Diretos
 
-<a href="https://cdn.jsdelivr.net/gh/thsjn/Tag-Manger@main/GTM.json" download>
-  <img src="https://img.shields.io/badge/Download-GTM.json_(Web)-blue?style=for-the-badge&logo=google">
-</a>
-
-<a href="https://cdn.jsdelivr.net/gh/thsjn/Tag-Manger@main/sGTM.json" download>
-  <img src="https://img.shields.io/badge/Download-sGTM.json_(Server)-orange?style=for-the-badge&logo=google-cloud">
-</a>
+[![Download Pack](https://img.shields.io/badge/Download-Pacote_Completo_(.rar)-success?style=for-the-badge&logo=google-tag-manager)](https://github.com/thsjn/Tag-Manger/raw/main/Tag%20Manager.rar)
