@@ -26,3 +26,15 @@ Este repositório contém as exportações dos contêineres do Google Tag Manage
 1. No Google Tag Manager, vá em **Admin** > **Importar Contêiner**.
 2. Selecione o arquivo JSON correspondente deste repositório.
 3. Escolha o workspace desejado e selecione "Mesclar" (Merge) ou "Sobrescrever" (Overwrite) conforme sua necessidade.
+
+
+
+### Downloads Diretos (Forçar Download)
+
+<a href="https://cdn.jsdelivr.net/gh/thsjn/Tag-Manger@main/GTM.json" download>
+  <img src="https://img.shields.io/badge/Download-GTM.json_(Web)-blue?style=for-the-badge&logo=google">
+</a>
+
+<a href="https://cdn.jsdelivr.net/gh/thsjn/Tag-Manger@main/sGTM.json" download>
+  <img src="https://img.shields.io/badge/Download-sGTM.json_(Server)-orange?style=for-the-badge&logo=google-cloud">
+</a>
